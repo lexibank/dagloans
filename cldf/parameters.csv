@@ -1,0 +1,163 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1,sun,1343,SUN
+2,moon,1313,MOON
+3,star,1430,STAR
+4,wind,960,WIND
+5,rain,658,RAIN (PRECIPITATION)
+6,fog,249,FOG
+7,dew,1977,DEW
+8,frost,2034,FROST
+9,snow,784,SNOW
+10,ice,617,ICE
+11,hail,609,HAIL
+12,lightning,1654,LIGHTNING
+14,rainbow,1733,RAINBOW
+15,weather,952,WEATHER
+16,sunny day,2742,SUNNY DAY
+17,cloudy day,2743,CLOUDY DAY
+18,"sea, ocean",2282,SEA OR OCEAN
+19,lake,624,LAKE
+20,pond,2035,POND
+22,"time, season",892,TIME
+23,this year,513,THIS YEAR
+24,next year,515,NEXT YEAR
+25,the year after next,2330,YEAR AFTER NEXT YEAR
+26,last year,514,LAST YEAR
+27,the year before last,2331,YEAR BEFORE LAST YEAR
+28,day,1260,DAY (24 HOURS)
+29,today,1283,TODAY
+30,tomorrow,1329,TOMORROW
+31,the day after tomorrow,1179,DAY AFTER TOMORROW
+32,three days from now,2332,THREE DAYS FROM NOW
+33,yesterday,1174,YESTERDAY
+34,the day before yesterday,1180,DAY BEFORE YESTERDAY
+35,three days before,,
+36,day (opposed to night),1225,DAY (NOT NIGHT)
+37,night (opposed to day),1233,NIGHT
+38,morning,1339,MORNING
+39,forenoon,2775,FORENOON
+40,noon,12,MIDDAY
+41,afternoon,1807,AFTERNOON
+42,at dusk (nightfall),2297,DUSK
+43,evening,1629,EVENING
+44,new year,,
+45,the Dragon Boat Festival,2186,DRAGON BOAT FESTIVAL
+46,the Mid-autumn Festival (15th day of the 8th lunar month),2187,MID-AUTUMN FESTIVAL
+47,the Double-Nine Festival,,
+48,Chinese New Year's Eve,2188,NEW YEAR'S EVE
+50,silver,759,SILVER
+51,copper,1825,COPPER
+52,iron,621,IRON
+53,steel,2343,STEEL
+54,lead,627,LEAD (CHEMICAL ELEMENT)
+55,tin,893,TIN (METAL)
+56,coal,2658,COAL
+57,kerosine,,
+58,petrol,2344,PETROL
+59,stone,857,STONE
+60,"mud, earth",640,MUD
+61,"soil, earth",1228,EARTH (SOIL)
+62,dust,2,DUST
+63,tiger,846,TIGER
+65,leopard // panther,1139,LEOPARD
+66,wolf,522,WOLF
+67,deer,1936,DEER
+68,monkey,1350,MONKEY
+69,"rabbit, hare",2345,LEPORID (RABBIT OR HARE)
+70,"rat, mouse",2139,MUROID (MOUSE OR RAT)
+71,"hawk, eagle",2683,EAGLE OR HAWK
+72,owl,735,OWL
+73,wild goose,2776,WILD GOOSE
+74,swallow,3077,SWALLOW (BIRD)
+75,crow,913,CROW
+76,magpie,2039,MAGPIE
+77,sparrow,1854,SPARROW
+78,"pigeon, dove",1853,DOVE
+79,crested myna,2346,CRESTED MYNA
+80,cattle,1153,CATTLE
+81,bull,1008,BULL
+82,cow,1007,COW
+83,stallion,936,STALLION
+84,mare,938,MARE
+85,male pig,2487,MALE PIG
+86,sow,1351,SOW (FEMALE PIG)
+87,male dog,2480,MALE DOG
+88,female dog,2481,FEMALE DOG
+89,"donkey, ass",1862,DONKEY
+90,mule,890,MULE
+91,"sheep, goat",2684,CAPRINE (GOAT OR SHEEP)
+92,cat,1208,CAT
+93,rooster (cock),1511,ROOSTER
+94,capon,2567,CAPON
+95,hen (chicken),1514,HEN
+96,chicken chick,2513,CHICKEN CHICK
+97,duck,1360,DUCK
+98,goose,1187,GOOSE
+99,carp,2685,CARP (FISH)
+100,crucian carp,2784,CRUCIAN CARP
+101,yellow croaker,2347,YELLOW CROAKER
+102,crab,2348,CRAB
+103,shrimp,2349,SHRIMP
+104,"oysters, mussels",2785,BIVALVIA (MUSSELS OR OYSTERS)
+105,frog,503,FROG
+106,toad,894,TOAD
+107,turtle,112,TURTLE
+108,snail,1543,SNAIL
+109,earthworm,2350,EARTHWORM
+110,silkworms,2351,SILKWORM
+111,bee,665,BEE
+112,butterfly,1791,BUTTERFLY
+113,dragonfly,2352,DRAGONFLY
+114,cicada,2353,CICADA
+115,firefly,206,FIREFLY
+116,cricket,2354,CRICKET
+117,ant,587,ANT
+118,housefly,1504,FLY (INSECT)
+119,mosquito,1509,MOSQUITO
+120,bedbug,1949,BEDBUG
+121,spider,843,SPIDER
+122,centipede,1974,CENTIPEDE
+123,snake,730,SNAKE
+124,gecko,2355,GECKO
+125,wing,1257,WING
+126,hoof,152,HOOF
+127,claw,72,CLAW
+128,tail,1220,TAIL
+129,fish scales,266,SCALE
+130,plum blossom,2744,PLUM BLOSSOM
+131,apricot blossom,2745,APRICOT BLOSSOM
+132,peach blossom,2746,PEACH BLOSSOM
+133,lotus,2359,LOTUS
+134,cassia,2748,SWEET OLIVE FLOWER
+135,mugwort,2361,MUGWORT
+136,cotton (raw),1850,COTTON
+137,rice plant,2026,RICE PLANT
+138,rice crops,2749,UNHUSKED RICE
+139,rice,926,RICE
+140,polished glutinous rice,2750,GLUTINOUS RICE
+141,wheat,1077,WHEAT
+142,flour,1594,FLOUR
+143,millet (unhusked rice),,
+144,millet,931,MILLET
+146,chaff (husks),2363,CHAFF (HUSK)
+147,sorghum,347,SORGHUM
+148,maize,506,MAIZE
+149,peanut,2364,PEANUT
+150,sunflower,1956,SUNFLOWER
+151,sweet potato,159,SWEET POTATO
+152,potato,593,POTATO
+153,vegetable,924,VEGETABLES
+154,cabbage,774,CABBAGE
+155,pumpkin,864,PUMPKIN
+156,wax gourd (white gourd),411,GOURD
+157,cucumber,496,CUCUMBER
+158,radish,2365,RADISH
+159,eggplant,1146,AUBERGINE
+160,tomato,986,TOMATO
+161,tuber onion,,
+162,scallions (green onions),2366,ONION
+163,garlic,2368,GARLIC
+164,"chilli, red pepper",919,CHILI PEPPER
+165,fruit,1507,FRUIT
+166,peach,2043,PEACH
+167,pear,922,PEAR
