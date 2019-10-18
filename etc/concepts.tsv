@@ -1,4 +1,4 @@
-ID	ENGLISH	NUMBER
+ID	ENGLISH	NUMBER_IN_SOURCE
 1	the ant	1
 2	the arch	2
 3	the axe/ax	3
@@ -45,7 +45,7 @@ ID	ENGLISH	NUMBER
 44	the dust	41
 45	the earring	42
 46	the egg	43
-47	the fairy	tale
+47	the fairy	44
 48	the fairy tale	44
 49	the family	45
 50	the family	5

@@ -1,163 +1,163 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1,sun,1343,SUN
-2,moon,1313,MOON
-3,star,1430,STAR
-4,wind,960,WIND
-5,rain,658,RAIN (PRECIPITATION)
-6,fog,249,FOG
-7,dew,1977,DEW
-8,frost,2034,FROST
-9,snow,784,SNOW
-10,ice,617,ICE
-11,hail,609,HAIL
-12,lightning,1654,LIGHTNING
-14,rainbow,1733,RAINBOW
-15,weather,952,WEATHER
-16,sunny day,2742,SUNNY DAY
-17,cloudy day,2743,CLOUDY DAY
-18,"sea, ocean",2282,SEA OR OCEAN
-19,lake,624,LAKE
-20,pond,2035,POND
-22,"time, season",892,TIME
-23,this year,513,THIS YEAR
-24,next year,515,NEXT YEAR
-25,the year after next,2330,YEAR AFTER NEXT YEAR
-26,last year,514,LAST YEAR
-27,the year before last,2331,YEAR BEFORE LAST YEAR
-28,day,1260,DAY (24 HOURS)
-29,today,1283,TODAY
-30,tomorrow,1329,TOMORROW
-31,the day after tomorrow,1179,DAY AFTER TOMORROW
-32,three days from now,2332,THREE DAYS FROM NOW
-33,yesterday,1174,YESTERDAY
-34,the day before yesterday,1180,DAY BEFORE YESTERDAY
-35,three days before,,
-36,day (opposed to night),1225,DAY (NOT NIGHT)
-37,night (opposed to day),1233,NIGHT
-38,morning,1339,MORNING
-39,forenoon,2775,FORENOON
-40,noon,12,MIDDAY
-41,afternoon,1807,AFTERNOON
-42,at dusk (nightfall),2297,DUSK
-43,evening,1629,EVENING
-44,new year,,
-45,the Dragon Boat Festival,2186,DRAGON BOAT FESTIVAL
-46,the Mid-autumn Festival (15th day of the 8th lunar month),2187,MID-AUTUMN FESTIVAL
-47,the Double-Nine Festival,,
-48,Chinese New Year's Eve,2188,NEW YEAR'S EVE
-50,silver,759,SILVER
-51,copper,1825,COPPER
-52,iron,621,IRON
-53,steel,2343,STEEL
-54,lead,627,LEAD (CHEMICAL ELEMENT)
-55,tin,893,TIN (METAL)
-56,coal,2658,COAL
-57,kerosine,,
-58,petrol,2344,PETROL
-59,stone,857,STONE
-60,"mud, earth",640,MUD
-61,"soil, earth",1228,EARTH (SOIL)
-62,dust,2,DUST
-63,tiger,846,TIGER
-65,leopard // panther,1139,LEOPARD
-66,wolf,522,WOLF
-67,deer,1936,DEER
-68,monkey,1350,MONKEY
-69,"rabbit, hare",2345,LEPORID (RABBIT OR HARE)
-70,"rat, mouse",2139,MUROID (MOUSE OR RAT)
-71,"hawk, eagle",2683,EAGLE OR HAWK
-72,owl,735,OWL
-73,wild goose,2776,WILD GOOSE
-74,swallow,3077,SWALLOW (BIRD)
-75,crow,913,CROW
-76,magpie,2039,MAGPIE
-77,sparrow,1854,SPARROW
-78,"pigeon, dove",1853,DOVE
-79,crested myna,2346,CRESTED MYNA
-80,cattle,1153,CATTLE
-81,bull,1008,BULL
-82,cow,1007,COW
-83,stallion,936,STALLION
-84,mare,938,MARE
-85,male pig,2487,MALE PIG
-86,sow,1351,SOW (FEMALE PIG)
-87,male dog,2480,MALE DOG
-88,female dog,2481,FEMALE DOG
-89,"donkey, ass",1862,DONKEY
-90,mule,890,MULE
-91,"sheep, goat",2684,CAPRINE (GOAT OR SHEEP)
-92,cat,1208,CAT
-93,rooster (cock),1511,ROOSTER
-94,capon,2567,CAPON
-95,hen (chicken),1514,HEN
-96,chicken chick,2513,CHICKEN CHICK
-97,duck,1360,DUCK
-98,goose,1187,GOOSE
-99,carp,2685,CARP (FISH)
-100,crucian carp,2784,CRUCIAN CARP
-101,yellow croaker,2347,YELLOW CROAKER
-102,crab,2348,CRAB
-103,shrimp,2349,SHRIMP
-104,"oysters, mussels",2785,BIVALVIA (MUSSELS OR OYSTERS)
-105,frog,503,FROG
-106,toad,894,TOAD
-107,turtle,112,TURTLE
-108,snail,1543,SNAIL
-109,earthworm,2350,EARTHWORM
-110,silkworms,2351,SILKWORM
-111,bee,665,BEE
-112,butterfly,1791,BUTTERFLY
-113,dragonfly,2352,DRAGONFLY
-114,cicada,2353,CICADA
-115,firefly,206,FIREFLY
-116,cricket,2354,CRICKET
-117,ant,587,ANT
-118,housefly,1504,FLY (INSECT)
-119,mosquito,1509,MOSQUITO
-120,bedbug,1949,BEDBUG
-121,spider,843,SPIDER
-122,centipede,1974,CENTIPEDE
-123,snake,730,SNAKE
-124,gecko,2355,GECKO
-125,wing,1257,WING
-126,hoof,152,HOOF
-127,claw,72,CLAW
-128,tail,1220,TAIL
-129,fish scales,266,SCALE
-130,plum blossom,2744,PLUM BLOSSOM
-131,apricot blossom,2745,APRICOT BLOSSOM
-132,peach blossom,2746,PEACH BLOSSOM
-133,lotus,2359,LOTUS
-134,cassia,2748,SWEET OLIVE FLOWER
-135,mugwort,2361,MUGWORT
-136,cotton (raw),1850,COTTON
-137,rice plant,2026,RICE PLANT
-138,rice crops,2749,UNHUSKED RICE
-139,rice,926,RICE
-140,polished glutinous rice,2750,GLUTINOUS RICE
-141,wheat,1077,WHEAT
-142,flour,1594,FLOUR
-143,millet (unhusked rice),,
-144,millet,931,MILLET
-146,chaff (husks),2363,CHAFF (HUSK)
-147,sorghum,347,SORGHUM
-148,maize,506,MAIZE
-149,peanut,2364,PEANUT
-150,sunflower,1956,SUNFLOWER
-151,sweet potato,159,SWEET POTATO
-152,potato,593,POTATO
-153,vegetable,924,VEGETABLES
-154,cabbage,774,CABBAGE
-155,pumpkin,864,PUMPKIN
-156,wax gourd (white gourd),411,GOURD
-157,cucumber,496,CUCUMBER
-158,radish,2365,RADISH
-159,eggplant,1146,AUBERGINE
-160,tomato,986,TOMATO
-161,tuber onion,,
-162,scallions (green onions),2366,ONION
-163,garlic,2368,GARLIC
-164,"chilli, red pepper",919,CHILI PEPPER
-165,fruit,1507,FRUIT
-166,peach,2043,PEACH
-167,pear,922,PEAR
+1,the ant,,
+2,the arch,,
+3,the axe/ax,,
+4,the ball,,
+5,the barrel,,
+6,the bat,,
+7,the beak,,
+8,the beard,,
+9,the beeswax,,
+10,the belt,,
+11,the blanket,,
+12,the blister,,
+14,the boar,,
+15,the body,,
+16,the bottle,,
+17,the boundary,,
+18,the bow,,
+19,the bracelet,,
+20,the bridge,,
+22,the broom,,
+23,the bucket,,
+24,the butterfly,,
+25,the cabbage,,
+26,the candle,,
+27,the carrot,,
+28,the cat,,
+29,the cattle,,
+30,the cave,,
+31,the chain,,
+32,the clan,,
+33,the clothing,,
+34,the clothing or clothes,,
+35,the cock/rooster,,
+36,the colour/color,,
+37,the copper,,
+38,the corpse,,
+39,the cross,,
+40,the cup,,
+41,the debt,,
+42,the drum,,
+43,the duck,,
+44,the dust,,
+45,the earring,,
+46,the egg,,
+47,the fairy,,
+48,the fairy tale,,
+50,the family,,
+51,the felt,,
+52,the fermented drink,,
+53,the firewood,,
+54,the fish,,
+55,the fist,,
+56,the flour,,
+57,the flower,,
+58,the footprint,,
+59,the fork,,
+60,the fork(2)/pitchfork,,
+61,the friend,,
+62,the frog,,
+63,the garden,,
+65,the glass,,
+66,the gold,,
+67,the goose,,
+68,the grape,,
+69,the grasshopper,,
+70,the guest,,
+71,the gun,,
+72,the hammer,,
+73,the hare,,
+74,the herd,,
+75,the iron,,
+76,the joke,,
+77,the lead,,
+78,the lightning,,
+79,the lion,,
+80,the lip,,
+81,the lizard,,
+82,the lock,,
+83,the maize/corn,,
+84,the medicine,,
+85,the melon,,
+86,the mirror,,
+87,the money,,
+88,the mortar(2),,
+89,the mule,,
+90,the mushroom,,
+91,the nail,,
+92,the needle(1),,
+93,the neighbour,,
+94,the nest,,
+95,the nettle,,
+96,the oats,,
+97,the orphan,,
+98,the owl,,
+99,the paint,,
+100,the paper,,
+101,the partridge,,
+102,the pea,,
+103,the pear,,
+104,the pencil,,
+105,the pepper,,
+106,the pig,,
+107,the pipe,,
+108,the plum,,
+109,the pocket,,
+110,the poison,,
+111,the price,,
+112,the prison,,
+113,the pumpkin or squash,,
+114,the reindeer/caribou,,
+115,the rice,,
+116,the ring,,
+117,the rope,,
+118,the rosary,,
+119,the rust,,
+120,the sand,,
+121,the saw,,
+122,the scar,,
+123,the school,,
+124,the scissors or shears,,
+125,the scythe,,
+126,the sea,,
+127,the shade or shadow,,
+128,the shop/store,,
+129,the sickle,,
+130,the silver,,
+131,the slave,,
+132,the sledge/sled,,
+133,the sleeve,,
+134,the soap,,
+135,the song,,
+136,the soup,,
+137,the spade,,
+138,the spider,,
+139,the spoon,,
+140,the sugar,,
+141,the table,,
+142,the tail,,
+143,the thief,,
+144,the thing,,
+146,the thread,,
+147,the time,,
+148,the tobacco,,
+149,the tongs,,
+150,the towel,,
+151,the trousers,,
+152,the turnip,,
+153,the voice,,
+154,the wall,,
+155,the watermelon,,
+156,the wedding,,
+157,the week,,
+158,the wheel,,
+159,the whip,,
+160,the widow,,
+161,the window,,
+162,the wine,,
+163,the wing,,
+164,the wolf,,
+165,the work,,
+166,the worm,,
+167,the year,,

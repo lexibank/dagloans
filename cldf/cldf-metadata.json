@@ -1,23 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "B\u011bij\u012bng D\u00e0xu\u00e9 \u5317\u4eac\u5927\u5b66 (1964): H\u00e0ny\u01d4 f\u0101ngy\u00e1n c\u00edhu\u00ec \u6c49\u8bed\u65b9\u8a00\u8bcd\u6c47 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": [
-        "http://concepticon.clld.org/contributions/BeijingDaxue-1964-905"
-    ],
-    "dc:identifier": "https://github.com/digling/cddb/",
     "dc:isVersionOf": null,
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:related": null,
-    "dc:title": "Chinese Dialect Vocabularies",
+    "dc:title": "DagLoans Database",
     "dcat:accessURL": "https://github.com/lexibank/dagloans",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dagloans",
-            "dc:created": "965162e"
+            "dc:created": "c908d15"
         },
         {
             "rdf:type": "prov:Entity",
