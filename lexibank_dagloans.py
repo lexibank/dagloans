@@ -26,7 +26,7 @@ class Dataset(BaseDataset):
     language_class = DLanguage
     lexeme_class = DLexeme
 
-    def cmd_download(self, **kw):
+    def cmd_download(self, args):
         pass
 
     def cmd_makecldf(self, args):
