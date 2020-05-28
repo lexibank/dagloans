@@ -1,0 +1,80 @@
+@book{botlikh,
+  title={Ботлихско-русский словарь},
+  author={Саидова, Патимат Абдулаевна and Абусов, МГ},
+  year={2012},
+  publisher={Дагестанский научный центр РАН}
+}
+@book{agul,
+  title={Русско-агульский словарь},
+  author={Мазанаев, Шабан Абдулкадырович and Самедов, ДС and Гасанова, Салминат Нурадиновна and Базиева, ЗМ},
+  year={2012},
+  publisher={Дагестанский государственный университет}
+}
+@incollection{bezhta,
+  author      = {Khalilov, Madzhid and Comrie, Bernard},
+  title       = {Loanwords in Bezhta, a Nakh-Daghestanian language of the North Caucasus},
+  editor      = {Haspelmath, M., & Tadmor, U.},
+  booktitle   = {Loanwords in the world's languages: a comparative handbook},
+  publisher   = {Walter de Gruyter},
+  year        = {2009},
+  pages       = {414-429},
+  chapter     = {15},
+}
+@book{andi_gagatli,
+  title={Гагатлинский говор андийского языка},
+  author={Салимов, ХС},
+  year={2010},
+  publisher={Институт языка, литературы и искусства им. Г. Цадасы Дагестанского научного центра РАН}
+}
+@book{hinuq,
+  title={Гинухско-русский словарь},
+  author={Халилов, Маджид Шарипович and Исаков, Исак Абдулвахидович},
+  year={2005},
+  publisher={Дагестанский научный центр РАН}
+}
+@book{karata,
+  title={Каратинско-русский словарь: Karata-Russian dictionary},
+  author={Магомедова, Патимат Тураловна and Халидова, Рашидат Шахрудиновна},
+  year={2001},
+  publisher={Scriptorium}
+}
+@book{lezgian,
+  title={Лезгинско-русский словарь},
+  author={Талибов, Букар Бекирович and Гаджиев, Магомед Магомедович and Гайдаров, Раджидин Идаятович},
+  year={1966},
+  publisher={Сов. энциклопедия}
+}
+@book{rutul,
+  title={Русско-рутульский словарь},
+  author={Исмаилова, ЭИ},
+  year={2011},
+  publisher={Институт языка, литературы и искусства им. Г.Цадасы Дагестанского научного центра РАН}
+}
+@book{tabasaran,
+  title={Русско-табасаранский словарь},
+  author={Загиров, ВМ},
+  publisher={Махачкала: Дагучпедгиз},
+  year={1988}
+}
+@book{tsez,
+  title={Цезско-русский словарь},
+  author={Халилов, Маджид Шарипович},
+  year={1999},
+  publisher={Институт языка, литературы и искусства им. Г. Цадасы Дагестанского научного центра РАН}
+}
+@incollection{archi,
+  author      = {Chumakina, M},
+  title       = {Loanwords in Archi, a Nakh-Daghestanian of the North Caucasus},
+  editor      = {Haspelmath, M., & Tadmor, U.},
+  booktitle   = {Loanwords in the world's languages: a comparative handbook},
+  publisher   = {Walter de Gruyter},
+  year        = {2009},
+  pages       = {430-446},
+  chapter     = {16},
+}
+@book{bagvalal,
+  title={Багвалинско-русский словарь},
+  author={Магомедова, ПТ},
+  publisher={Махачкала: ИЯЛИ ДНЦ РАН},
+  year={2004}
+}
