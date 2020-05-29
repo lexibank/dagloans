@@ -28,9 +28,7 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLexeme(Lexeme):
-    Stem = attr.ib(default=None)
-    Lexeme_ID = attr.ib(default=None)
-
+    Borrowing_ID = attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -68,12 +66,12 @@ class Dataset(BaseDataset):
                 Value=row['Standard_Transcription'],
                 Form=row['Word'],
                 Source=sources.get(row['List_ID'], ''),
-                Stem=row['Stem']
+                Borrowing_ID=row['Concept_ID']+'-'+row['Stem']
                 )
-            #args.writer.add_cognate(
-            #    lexeme=row,
-            #    Cognateset_ID=line['Set'].replace(' ', '')
-            #    )
+            args.writer.add_cognate(
+                lexeme=lexeme,
+                Cognateset_ID=lexeme['Borrowing_ID']
+                )
 
 
 

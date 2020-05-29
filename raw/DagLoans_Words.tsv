@@ -13,19 +13,9 @@ Entry_ID	List_ID	Code	Concept_ID	Concept	Word	Comment	Standard_Transcription	Ste
 12	139	D_Persian	1	the ant	moor	NA	moor	3
 13	153	E_Persian	1	the ant	moor	NA	moor	3
 14	153	E_Persian	1	the ant	mur	NA	moor	3
-<<<<<<< HEAD
 15	11	D_Arabic	1	the ant	namlah	NA	"نَمْلَة"	4
 16	11	D_Arabic	1	the ant	nammah	NA	"نَمْلَة"	4
 17	149	E_Arabic	1	the ant	"نَمْلَة"	nam̊laẗ	"نَمْلَة"	4
-=======
-15	11	D_Arabic	1	the ant	namlah	NA	"نَمْلَة
-"	4
-16	11	D_Arabic	1	the ant	nammah	NA	"نَمْلَة
-"	4
-17	149	E_Arabic	1	the ant	"نَمْلَة
-"	nam̊laẗ	"نَمْلَة
-"	4
->>>>>>> af04bedc7e7e4d2c85ee2c1ca95b5e76469b456e
 18	13	E_Azerbaijani	1	the ant	qarışqa	NA	qarışqa	5
 19	26	Darvag1	1	the ant	qarışqa	NA	qarışqa	5
 20	27	Darvag2	1	the ant	гаришкъа	NA	qarışqa	5
@@ -201,13 +191,7 @@ Entry_ID	List_ID	Code	Concept_ID	Concept	Word	Comment	Standard_Transcription	Ste
 190	152	E_Kumyk	2	the arch	гюмез	NA	гюмез	14
 191	15	D_Chechen	2	the arch	нартол	NA	нартол	16
 192	151	E_Chechen	2	the arch	нартол	consultant does not know or recognize the word	нартол	16
-<<<<<<< HEAD
 193	149	E_Arabic	2	the arch	"قَوْس"	qaẘs	"قَوْس"	18
-=======
-193	149	E_Arabic	2	the arch	"قَوْس
-"	qaẘs	"قَوْس
-"	18
->>>>>>> af04bedc7e7e4d2c85ee2c1ca95b5e76469b456e
 194	13	E_Azerbaijani	3	the axe/ax	balta	NA	balta	1
 195	20	D_Kumyk	3	the axe/ax	балта	NA	балта	1
 196	23	D_Rutul	3	the axe/ax	балта	NA	балта	1
