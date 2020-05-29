@@ -1,147 +1,176 @@
-"ID"	"List_ID"	"SourceType"	"Variety"	"Name"	"Family"	"SubGroup"	"Glottocode"	"Location"	"Latitude"	"Longitude"
-"Alibeglo1"	1	"Speaker"	"Alibeglo1"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Alibeglo"	41.378056	46.821944
-"Arkhit1"	2	"Speaker"	"Arkhit1"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Arkhit2"	3	"Speaker"	"Arkhit2"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Arkhit3"	4	"Speaker"	"Arkhit3"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Arkhit4"	5	"Speaker"	"Arkhit4"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Arkhit5"	6	"Speaker"	"Arkhit5"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Arkhit6"	7	"Speaker"	"Arkhit6"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Arkhit"	41.734607	47.97302
-"Bezhta1"	8	"Speaker"	"Bezhta1"	"Bezhta"	"East-Caucasian"	"Tsezic"	"bezh1248"	"Bezhta"	42.1339	46.1247
-"D_Agul"	10	"Dictionary"	"D_Agul"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Dictionary"	41.92418	47.58429
-"D_Arabic"	11	"Dictionary"	"D_Arabic"	"Arabic"	"Afro-Asiatic"	"Semitic"	"egyp1253"	"Dictionary"	31	31
-"D_Avar"	12	"Dictionary"	"D_Avar"	"Avar"	"East-Caucasian"	"Avar"	"avar1256"	"Dictionary"	42.43056	46.66639
-"D_Azerbaijani"	13	"Dictionary"	"D_Azerbaijani"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Dictionary"	40.97767	46.4737
-"D_Bezhta1"	14	"Dictionary"	"D_Bezhta1"	"Bezhta"	"East-Caucasian"	"Tsezic"	"bezh1248"	"Dictionary"	42.1206	46.03319
-"D_Botlikh"	9	"Dictionary"	"D_Botlikh"	"Botlikh"	"East-Caucasian"	"Tsezic"	"botl1242"	"Dictionary"	42.665	46.22
-"D_Chechen"	15	"Dictionary"	"D_Chechen"	"Chechen"	"East-Caucasian"	"Nakh"	"chec1245"	"Dictionary"	43.5	45.5
-"D_Gagatli"	16	"Dictionary"	"D_Gagatli"	"Andi"	"East-Caucasian"	"Andic"	"andi1255"	"Dictionary"	42.800361	46.292645
-"D_Georgian"	17	"Dictionary"	"D_Georgian"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Dictionary"	41.81574	44.31883
-"D_Hinuq"	18	"Dictionary"	"D_Hinuq"	"Hinuq"	"East-Caucasian"	"Tsezic"	"hinu1240"	"Dictionary"	42.1764	45.98646
-"D_Karata"	19	"Dictionary"	"D_Karata"	"Karata"	"East-Caucasian"	"Tsezic"	"kara1474"	"Dictionary"	42.65005	46.31511
-"D_Kumyk"	20	"Dictionary"	"D_Kumyk"	"Kumyk"	"Altaic"	"Turkic"	"kumy1244"	"Dictionary"	43	47
-"D_Lezgian"	21	"Dictionary"	"D_Lezgian"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Dictionary"	41.51572	47.89507
-"D_Russian"	22	"Dictionary"	"D_Russian"	"Russian"	"Indo-European"	"Slavic"	"russ1263"	"Dictionary"	59	50
-"D_Rutul"	23	"Dictionary"	"D_Rutul"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Dictionary"	41.61866	47.32436
-"D_Tabasaran"	24	"Dictionary"	"D_Tabasaran"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Dictionary"	42.01976	47.83791
-"D_Tsez"	25	"Dictionary"	"D_Tsez"	"Tsez"	"East-Caucasian"	"Tsezic"	"dido1241"	"Dictionary"	42.26458	45.80959
-"Darvag1"	26	"Speaker"	"Darvag1"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Darvag2"	27	"Speaker"	"Darvag2"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Darvag3"	28	"Speaker"	"Darvag3"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Darvag4"	29	"Speaker"	"Darvag4"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Darvag5"	31	"Speaker"	"Darvag5"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Darvag6"	32	"Speaker"	"Darvag6"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Darvag"	42.022285	48.065912
-"Dyubek1"	33	"Speaker"	"Dyubek1"	"Tabasaran"	"Altaic"	"Turkic"	"taba1259"	"Dyubek"	42.0208	47.969528
-"Dyubek2"	34	"Speaker"	"Dyubek2"	"Tabasaran"	"Altaic"	"Turkic"	"taba1259"	"Dyubek"	42.0208	47.969528
-"Dyubek3"	35	"Speaker"	"Dyubek3"	"Tabasaran"	"Altaic"	"Turkic"	"taba1259"	"Dyubek"	42.0208	47.969528
-"Dyubek4"	36	"Speaker"	"Dyubek4"	"Tabasaran"	"Altaic"	"Turkic"	"taba1259"	"Dyubek"	42.0208	47.969528
-"Dzhavgat1"	37	"Speaker"	"Dzhavgat1"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhavgat"	42.0506	47.9375
-"Dzhavgat2"	38	"Speaker"	"Dzhavgat2"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhavgat"	42.0506	47.9375
-"Dzhavgat3"	39	"Speaker"	"Dzhavgat3"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhavgat"	42.0506	47.9375
-"Dzhavgat4"	40	"Speaker"	"Dzhavgat4"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhavgat"	42.0506	47.9375
-"Dzhibakhni1"	41	"Speaker"	"Dzhibakhni1"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhibakhni"	42.06051	47.90847
-"Dzhibakhni2"	42	"Speaker"	"Dzhibakhni2"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhibakhni"	42.06051	47.90847
-"Dzhibakhni3"	43	"Speaker"	"Dzhibakhni3"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhibakhni"	42.06051	47.90847
-"Dzhibakhni4"	44	"Speaker"	"Dzhibakhni4"	"Kajtak"	"East-Caucasian"	"Dargwa"	"kajt1238"	"Dzhibakhni"	42.06051	47.90847
-"Helmets1"	45	"Speaker"	"Helmets1"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Gelmets"	41.62466	47.17889
-"Helmets2"	46	"Speaker"	"Helmets2"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Gelmets"	41.62466	47.17889
-"Helmets3"	47	"Speaker"	"Helmets3"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Gelmets"	41.62466	47.17889
-"Ikhrek1"	48	"Speaker"	"Ikhrek1"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Ikhrek"	41.693931	47.210005
-"Ikhrek2"	49	"Speaker"	"Ikhrek2"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Ikhrek"	41.693931	47.210005
-"Ikhrek3"	50	"Speaker"	"Ikhrek3"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Ikhrek"	41.693931	47.210005
-"Ikhrek4"	51	"Speaker"	"Ikhrek4"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Ikhrek"	41.693931	47.210005
-"Ilisu1"	52	"Speaker"	"Ilisu1"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Ilisu"	41.46694	47.05917
-"Karata1"	53	"Speaker"	"Karata1"	"Karata"	"East-Caucasian"	"Andic"	"kara1474"	"Karata"	42.5942	46.3419
-"Karata2"	54	"Speaker"	"Karata2"	"Karata"	"East-Caucasian"	"Andic"	"kara1474"	"Karata"	42.5942	46.3419
-"Karata3"	55	"Speaker"	"Karata3"	"Karata"	"East-Caucasian"	"Andic"	"kara1474"	"Karata"	42.5942	46.3419
-"Karata4"	56	"Speaker"	"Karata4"	"Karata"	"East-Caucasian"	"Andic"	"kara1474"	"Karata"	42.5942	46.3419
-"Khapil1"	57	"Speaker"	"Khapil1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khapil’"	41.98722	47.97731
-"Khapil2"	58	"Speaker"	"Khapil2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khapil’"	41.98722	47.97731
-"Khapil3"	59	"Speaker"	"Khapil3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khapil’"	41.98722	47.97731
-"Khapil4"	60	"Speaker"	"Khapil4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khapil’"	41.98722	47.97731
-"Khapil5"	61	"Speaker"	"Khapil5"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khapil’"	41.98722	47.97731
-"Khiv1"	62	"Speaker"	"Khiv1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khiv"	41.7533	47.9286
-"Khiv2"	63	"Speaker"	"Khiv2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khiv"	41.7533	47.9286
-"Khiv3"	64	"Speaker"	"Khiv3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khiv"	41.7533	47.9286
-"Khiv4"	65	"Speaker"	"Khiv4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khiv"	41.7533	47.9286
-"Khlut1"	66	"Speaker"	"Khlut1"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Khlyut"	41.496274	47.533824
-"Khlut2"	67	"Speaker"	"Khlut2"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Khlyut"	41.496274	47.533824
-"Khlut3"	68	"Speaker"	"Khlut3"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Khlyut"	41.496274	47.533824
-"Khlut4"	69	"Speaker"	"Khlut4"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Khlyut"	41.496274	47.533824
-"Khlut5"	70	"Speaker"	"Khlut5"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Khlyut"	41.496274	47.533824
-"Khoredzh1"	71	"Speaker"	"Khoredzh1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khoredzh2"	72	"Speaker"	"Khoredzh2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khoredzh3"	73	"Speaker"	"Khoredzh3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khoredzh4"	74	"Speaker"	"Khoredzh4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khoredzh5"	75	"Speaker"	"Khoredzh5"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khoredzh6"	76	"Speaker"	"Khoredzh6"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Khoredzh"	41.74914	47.8667
-"Khutkhul1"	77	"Speaker"	"Khutkhul1"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Khutkhul"	41.78517	47.61451
-"Khutkhul2"	78	"Speaker"	"Khutkhul2"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Khutkhul"	41.78517	47.61451
-"Khutkhul3"	79	"Speaker"	"Khutkhul3"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Khutkhul"	41.78517	47.61451
-"Khutkhul4"	80	"Speaker"	"Khutkhul4"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Khutkhul"	41.78517	47.61451
-"Kiche1"	81	"Speaker"	"Kiche1"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Kiche"	41.53146	47.48171
-"Kiche2"	82	"Speaker"	"Kiche2"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Kiche"	41.53146	47.48171
-"Kidero1"	83	"Speaker"	"Kidero1"	"Tsez"	"East-Caucasian"	"Tsezic"	"dido1241"	"Kidero"	42.1931	45.9583
-"Kidero2"	84	"Speaker"	"Kidero2"	"Tsez"	"East-Caucasian"	"Tsezic"	"dido1241"	"Kidero"	42.1931	45.9583
-"Kidero3"	85	"Speaker"	"Kidero3"	"Tsez"	"East-Caucasian"	"Tsezic"	"dido1241"	"Kidero"	42.1931	45.9583
-"Kina1"	86	"Speaker"	"Kina1"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Kina"	41.6166	47.2647
-"Kina2"	87	"Speaker"	"Kina2"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Kina"	41.6166	47.2647
-"Kina3"	88	"Speaker"	"Kina3"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Kina"	41.6166	47.2647
-"Kurag1"	89	"Speaker"	"Kurag1"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Kurag"	41.836764	47.661351
-"Laka1"	90	"Speaker"	"Laka1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Laka2"	91	"Speaker"	"Laka2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Laka3"	92	"Speaker"	"Laka3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Laka4"	93	"Speaker"	"Laka4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Laka5"	94	"Speaker"	"Laka5"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Laka6"	95	"Speaker"	"Laka6"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Laka"	41.75705	47.88114
-"Meshabash1"	96	"Speaker"	"Meshabash1"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Meshabash"	41.408889	46.874444
-"Meshabash2"	97	"Speaker"	"Meshabash2"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Meshabash"	41.408889	46.874444
-"Mikik1"	98	"Speaker"	"Mikik1"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Mikik"	41.63753	47.16822
-"Mikik2"	99	"Speaker"	"Mikik2"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Mikik"	41.63753	47.16822
-"Qax1"	100	"Speaker"	"Qax1"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qax2"	101	"Speaker"	"Qax2"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qax3"	102	"Speaker"	"Qax3"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qax4"	103	"Speaker"	"Qax4"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Qax"	41.41944	46.91806
-"Qax5"	104	"Speaker"	"Qax5"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Qax"	41.41944	46.91806
-"Qax6"	105	"Speaker"	"Qax6"	"Georgian"	"Kartvelian"	"Kartvelian"	"nucl1302"	"Qax"	41.41944	46.91806
-"Qax7"	106	"Speaker"	"Qax7"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qax8"	107	"Speaker"	"Qax8"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qax9"	108	"Speaker"	"Qax9"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Qax"	41.41944	46.91806
-"Qum1"	109	"Speaker"	"Qum1"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Qum"	41.4550912	46.9013871
-"Qum2"	110	"Speaker"	"Qum2"	"Tsakhur"	"East-Caucasian"	"Lezgic"	"tsak1249"	"Qum"	41.4550912	46.9013871
-"Rikvani1"	111	"Speaker"	"Rikvani1"	"Andi"	"East-Caucasian"	"Andic"	"andi1255"	"Rikvani"	42.782304	46.319372
-"Rutul1"	112	"Speaker"	"Rutul1"	"Rutul"	"East-Caucasian"	"Lezgic"	"rutu1240"	"Rutul"	41.5342	47.4269
-"Tad-Magitl1"	113	"Speaker"	"Tad-Magitl1"	"Akhvakh"	"East-Caucasian"	"Andic"	"akhv1239"	"Tad-Magitl"	42.550266	46.348953
-"Tad-Magitl2"	114	"Speaker"	"Tad-Magitl2"	"Akhvakh"	"East-Caucasian"	"Andic"	"akhv1239"	"Tad-Magitl"	42.550266	46.348953
-"Tatil1"	115	"Speaker"	"Tatil1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Tatil’"	41.99269	47.98826
-"Tatil2"	116	"Speaker"	"Tatil2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Tatil’"	41.99269	47.98826
-"Tatil3"	117	"Speaker"	"Tatil3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Tatil’"	41.99269	47.98826
-"Tatil4"	118	"Speaker"	"Tatil4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Tatil’"	41.99269	47.98826
-"Tatil5"	119	"Speaker"	"Tatil5"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Tatil’"	41.99269	47.98826
-"Tpig1"	120	"Speaker"	"Tpig1"	"Agul"	"East-Caucasian"	"Lezgic"	"aghu1253"	"Tpig"	41.780423	47.589523
-"Tsinit1"	121	"Speaker"	"Tsinit1"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Tsinit"	41.72324	48.00882
-"Tsinit2"	122	"Speaker"	"Tsinit2"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Tsinit"	41.72324	48.00882
-"Tsinit3"	123	"Speaker"	"Tsinit3"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Tsinit"	41.72324	48.00882
-"Tsinit4"	124	"Speaker"	"Tsinit4"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Tsinit"	41.72324	48.00882
-"Tsinit5"	125	"Speaker"	"Tsinit5"	"Lezgian"	"East-Caucasian"	"Lezgic"	"lezg1247"	"Tsinit"	41.72324	48.00882
-"Tukita1"	126	"Speaker"	"Tukita1"	"Karata"	"East-Caucasian"	"Andic"	"kara1474"	"Tukita"	42.57056	46.37278
-"Yagdyg1"	127	"Speaker"	"Yagdyg1"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yagdyg2"	128	"Speaker"	"Yagdyg2"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yagdyg3"	129	"Speaker"	"Yagdyg3"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yagdyg4"	130	"Speaker"	"Yagdyg4"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yagdyg5"	131	"Speaker"	"Yagdyg5"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yagdyg6"	132	"Speaker"	"Yagdyg6"	"Tabasaran"	"East-Caucasian"	"Lezgic"	"taba1259"	"Yagdyg"	41.980115	47.970578
-"Yersi1"	133	"Speaker"	"Yersi1"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Yersi"	42.018844	48.012897
-"Yersi2"	134	"Speaker"	"Yersi2"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Yersi"	42.018844	48.012897
-"Yersi3"	135	"Speaker"	"Yersi3"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Yersi"	42.018844	48.012897
-"Yersi4"	136	"Speaker"	"Yersi4"	"Azerbaijani"	"Altaic"	"Turkic"	"nort2697"	"Yersi"	42.018844	48.012897
-"Zilo1"	137	"Speaker"	"Zilo1"	"Andi"	"East-Caucasian"	"Andic"	"andi1255"	"Zilo"	42.731394	46.319223
-"Zilo2"	138	"Speaker"	"Zilo2"	"Andi"	"East-Caucasian"	"Andic"	"andi1255"	"Zilo"	42.731394	46.319223
-"D_Persian"	139	"Dictionary"	"D_Persian"	"Persian"	"Indo-European"	"Iranian"	"west2369"	"Dictionary"	28.65928	55.15861
-"D_Archi"	140	"Dictionary"	"D_Archi"	"Archi"	"East-Caucasian"	"Lezgic"	"arch1244"	"Dictionary"	42.0664	46.8678
-"D_Bezhta2"	141	"Dictionary"	"D_Bezhta2"	"Bezhta"	"East-Caucasian"	"Tsezic"	"bezh1248"	"Dictionary"	42.1206	46.03319
-"Tlibisho1"	142	"Speaker"	"Tlibisho1"	"Bagvalal"	"East-Caucasian"	"Andic"	"bagv1239"	"Tlibisho"	42.333	46.1804
-"Tlibisho2"	143	"Speaker"	"Tlibisho2"	"Bagvalal"	"East-Caucasian"	"Andic"	"bagv1240"	"Tlibisho"	42.333	46.1804
-"Tlibisho3"	144	"Speaker"	"Tlibisho3"	"Bagvalal"	"East-Caucasian"	"Andic"	"bagv1241"	"Tlibisho"	42.333	46.1804
-"Tlibisho4"	145	"Speaker"	"Tlibisho4"	"Bagvalal"	"East-Caucasian"	"Andic"	"bagv1242"	"Tlibisho"	42.333	46.1804
-"D_Bagvalal"	146	"Dictionary"	"D_Bagvalal"	"Bagvalal"	"East-Caucasian"	"Andic"	"bagv1242"	"Dictionary"	42.333	46.1804
-"Kusur1"	147	"Speaker"	"Kusur1"	"Avar"	"East-Caucasian"	"Avar"	"avar1256"	"Kusur"	41.4658	46.5641
+List_ID	SourceType	SfW	ID	Name	Family	SubGroup	Glottocode	Location	Latitude	Longitude	District	Source
+1	Speaker	1	Alibeglo1	Georgian	Kartvelian	Kartvelian	nucl1302	Alibeglo	41.378056	46.821944	Qax	
+2	Speaker	1	Arkhit1	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+3	Speaker	1	Arkhit2	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+4	Speaker	1	Arkhit3	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+5	Speaker	1	Arkhit4	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+6	Speaker	1	Arkhit5	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+7	Speaker	1	Arkhit6	Lezgian	East-Caucasian	Lezgic	lezg1247	Arkhit	41.734607	47.97302	Khiv	
+8	Speaker	1	Bezhta1	Bezhta	East-Caucasian	Tsezic	bezh1248	Bezhta	42.1339	46.1247	Tsunta	
+9	Dictionary	1	D_Botlikh	Botlikh	East-Caucasian	Andic	botl1242	Dictionary	42.665	46.22	Dictionary	botlikh
+10	Dictionary	1	D_Agul	Agul	East-Caucasian	Lezgic	aghu1253	Dictionary	41.92418	47.58429	Dictionary	agul
+11	Dictionary	0	D_Arabic	Arabic	Afro-Asiatic	Semitic	egyp1253	Dictionary	31	31	Dictionary	
+12	Dictionary	0	D_Avar	Avar	East-Caucasian	Avar	avar1256	Dictionary	42.43056	46.66639	Dictionary	
+13	Expert	1	E_Azerbaijani	Azerbaijani	Altaic	Turkic	nort2697	Expert	40.97767	46.4737	Expert	Murad Suleymanov; Gadir Mamedov
+14	Dictionary	0	D_Bezhta1	Bezhta	East-Caucasian	Tsezic	bezh1248	Dictionary	42.1206	46.03319	Dictionary	bezhta
+15	Dictionary	0	D_Chechen	Chechen	East-Caucasian	Nakh	chec1245	Dictionary	43.5	45.5	Dictionary	
+16	Dictionary	1	D_Gagatli	Andi	East-Caucasian	Andic	andi1255	Dictionary	42.800361	46.292645	Dictionary	andi_gagatli
+17	Dictionary	0	D_Georgian	Georgian	Kartvelian	Kartvelian	nucl1302	Dictionary	41.81574	44.31883	Dictionary	
+18	Dictionary	1	D_Hinuq	Hinuq	East-Caucasian	Tsezic	hinu1240	Dictionary	42.1764	45.98646	Dictionary	hinuq
+19	Dictionary	1	D_Karata	Karata	East-Caucasian	Andic	kara1474	Dictionary	42.65005	46.31511	Dictionary	karata
+20	Dictionary	0	D_Kumyk	Kumyk	Altaic	Turkic	kumy1244	Dictionary	43	47	Dictionary	
+21	Dictionary	1	D_Lezgian	Lezgian	East-Caucasian	Lezgic	lezg1247	Dictionary	41.51572	47.89507	Dictionary	lezgian
+22	Dictionary	1	E_Russian	Russian	Indo-European	Slavic	russ1263	Expert	59	50	Expert	Ilia Chechuro
+23	Dictionary	1	D_Rutul	Rutul	East-Caucasian	Lezgic	rutu1240	Dictionary	41.61866	47.32436	Dictionary	rutul
+24	Dictionary	1	D_Tabasaran	Tabasaran	East-Caucasian	Lezgic	taba1259	Dictionary	42.01976	47.83791	Dictionary	tabasaran
+25	Dictionary	1	D_Tsez	Tsez	East-Caucasian	Tsezic	dido1241	Dictionary	42.26458	45.80959	Dictionary	tsez
+26	Speaker	1	Darvag1	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+27	Speaker	1	Darvag2	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+28	Speaker	1	Darvag3	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+29	Speaker	1	Darvag4	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+31	Speaker	1	Darvag5	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+32	Speaker	1	Darvag6	Azerbaijani	Altaic	Turkic	nort2697	Darvag	42.022285	48.065912	Tabasaran	
+33	Speaker	1	Dyubek1	Tabasaran	East-Caucasian	Lezgic	taba1259	Dyubek	42.0208	47.969528	Tabasaran	
+34	Speaker	1	Dyubek2	Tabasaran	East-Caucasian	Lezgic	taba1259	Dyubek	42.0208	47.969528	Tabasaran	
+35	Speaker	1	Dyubek3	Tabasaran	East-Caucasian	Lezgic	taba1259	Dyubek	42.0208	47.969528	Tabasaran	
+36	Speaker	1	Dyubek4	Tabasaran	East-Caucasian	Lezgic	taba1259	Dyubek	42.0208	47.969528	Tabasaran	
+37	Speaker	1	Dzhavgat1	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhavgat	42.0506	47.9375	Kaitag	
+38	Speaker	1	Dzhavgat2	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhavgat	42.0506	47.9375	Kaitag	
+39	Speaker	1	Dzhavgat3	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhavgat	42.0506	47.9375	Kaitag	
+40	Speaker	1	Dzhavgat4	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhavgat	42.0506	47.9375	Kaitag	
+41	Speaker	1	Dzhibakhni1	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhibakhni	42.06051	47.90847	Kaitag	
+42	Speaker	1	Dzhibakhni2	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhibakhni	42.06051	47.90847	Kaitag	
+43	Speaker	1	Dzhibakhni3	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhibakhni	42.06051	47.90847	Kaitag	
+44	Speaker	1	Dzhibakhni4	Kajtak	East-Caucasian	Dargwa	kajt1238	Dzhibakhni	42.06051	47.90847	Kaitag	
+45	Speaker	1	Gelmets1	Tsakhur	East-Caucasian	Lezgic	tsak1249	Gelmets	41.62466	47.17889	Rutul	
+46	Speaker	1	Gelmets2	Tsakhur	East-Caucasian	Lezgic	tsak1249	Gelmets	41.62466	47.17889	Rutul	
+47	Speaker	1	Gelmets3	Tsakhur	East-Caucasian	Lezgic	tsak1249	Gelmets	41.62466	47.17889	Rutul	
+48	Speaker	1	Ikhrek1	Rutul	East-Caucasian	Lezgic	rutu1240	Ikhrek	41.693931	47.210005	Rutul	
+49	Speaker	1	Ikhrek2	Rutul	East-Caucasian	Lezgic	rutu1240	Ikhrek	41.693931	47.210005	Rutul	
+50	Speaker	1	Ikhrek3	Rutul	East-Caucasian	Lezgic	rutu1240	Ikhrek	41.693931	47.210005	Rutul	
+51	Speaker	1	Ikhrek4	Rutul	East-Caucasian	Lezgic	rutu1240	Ikhrek	41.693931	47.210005	Rutul	
+52	Speaker	1	Ilisu1	Azerbaijani	Altaic	Turkic	nort2697	Ilisu	41.46694	47.05917	Qax	
+53	Speaker	1	Karata1	Karata	East-Caucasian	Andic	kara1474	Karata	42.5942	46.3419	Akhvakh	
+54	Speaker	1	Karata2	Karata	East-Caucasian	Andic	kara1474	Karata	42.5942	46.3419	Akhvakh	
+55	Speaker	1	Karata3	Karata	East-Caucasian	Andic	kara1474	Karata	42.5942	46.3419	Akhvakh	
+56	Speaker	1	Karata4	Karata	East-Caucasian	Andic	kara1474	Karata	42.5942	46.3419	Akhvakh	
+57	Speaker	1	Khapil1	Tabasaran	East-Caucasian	Lezgic	taba1259	Khapil’	41.98722	47.97731	Tabasaran	
+58	Speaker	1	Khapil2	Tabasaran	East-Caucasian	Lezgic	taba1259	Khapil’	41.98722	47.97731	Tabasaran	
+59	Speaker	1	Khapil3	Tabasaran	East-Caucasian	Lezgic	taba1259	Khapil’	41.98722	47.97731	Tabasaran	
+60	Speaker	1	Khapil4	Tabasaran	East-Caucasian	Lezgic	taba1259	Khapil’	41.98722	47.97731	Tabasaran	
+61	Speaker	1	Khapil5	Tabasaran	East-Caucasian	Lezgic	taba1259	Khapil’	41.98722	47.97731	Tabasaran	
+62	Speaker	1	Khiv1	Tabasaran	East-Caucasian	Lezgic	taba1259	Khiv	41.7533	47.9286	Khiv	
+63	Speaker	1	Khiv2	Tabasaran	East-Caucasian	Lezgic	taba1259	Khiv	41.7533	47.9286	Khiv	
+64	Speaker	1	Khiv3	Tabasaran	East-Caucasian	Lezgic	taba1259	Khiv	41.7533	47.9286	Khiv	
+65	Speaker	1	Khiv4	Tabasaran	East-Caucasian	Lezgic	taba1259	Khiv	41.7533	47.9286	Khiv	
+66	Speaker	1	Khlyut1	Lezgian	East-Caucasian	Lezgic	lezg1247	Khlyut	41.496274	47.533824	Rutul	
+67	Speaker	1	Khlyut2	Lezgian	East-Caucasian	Lezgic	lezg1247	Khlyut	41.496274	47.533824	Rutul	
+68	Speaker	1	Khlyut3	Lezgian	East-Caucasian	Lezgic	lezg1247	Khlyut	41.496274	47.533824	Rutul	
+69	Speaker	1	Khlyut4	Lezgian	East-Caucasian	Lezgic	lezg1247	Khlyut	41.496274	47.533824	Rutul	
+70	Speaker	1	Khlyut5	Lezgian	East-Caucasian	Lezgic	lezg1247	Khlyut	41.496274	47.533824	Rutul	
+71	Speaker	1	Khoredzh1	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+72	Speaker	1	Khoredzh2	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+73	Speaker	0	Khoredzh3	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+74	Speaker	1	Khoredzh4	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+75	Speaker	1	Khoredzh5	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+76	Speaker	1	Khoredzh6	Tabasaran	East-Caucasian	Lezgic	taba1259	Khoredzh	41.74914	47.8667	Khiv	
+77	Speaker	1	Khutkhul1	Agul	East-Caucasian	Lezgic	aghu1253	Khutkhul	41.78517	47.61451	Agul	
+78	Speaker	1	Khutkhul2	Agul	East-Caucasian	Lezgic	aghu1253	Khutkhul	41.78517	47.61451	Agul	
+79	Speaker	1	Khutkhul3	Agul	East-Caucasian	Lezgic	aghu1253	Khutkhul	41.78517	47.61451	Agul	
+80	Speaker	1	Khutkhul4	Agul	East-Caucasian	Lezgic	aghu1253	Khutkhul	41.78517	47.61451	Agul	
+81	Speaker	1	Kiche1	Rutul	East-Caucasian	Lezgic	rutu1240	Kiche	41.53146	47.48171	Rutul	
+82	Speaker	1	Kiche2	Rutul	East-Caucasian	Lezgic	rutu1240	Kiche	41.53146	47.48171	Rutul	
+83	Speaker	1	Kidero1	Tsez	East-Caucasian	Tsezic	dido1241	Kidero	42.1931	45.9583	Tsunta	
+84	Speaker	1	Kidero2	Tsez	East-Caucasian	Tsezic	dido1241	Kidero	42.1931	45.9583	Tsunta	
+85	Speaker	1	Kidero3	Tsez	East-Caucasian	Tsezic	dido1241	Kidero	42.1931	45.9583	Tsunta	
+86	Speaker	0	Kina1	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+87	Speaker	0	Kina2	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+88	Speaker	0	Kina3	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+89	Speaker	1	Kurag1	Lezgian	East-Caucasian	Lezgic	lezg1247	Kurag	41.836764	47.661351	Agul	
+90	Speaker	1	Laka1	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+91	Speaker	1	Laka2	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+92	Speaker	1	Laka3	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+93	Speaker	1	Laka4	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+94	Speaker	1	Laka5	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+95	Speaker	1	Laka6	Tabasaran	East-Caucasian	Lezgic	taba1259	Laka	41.75705	47.88114	Khiv	
+96	Speaker	1	Meshabash1	Georgian	Kartvelian	Kartvelian	nucl1302	Meshabash	41.408889	46.874444	Qax	
+97	Speaker	0	Meshabash2	Georgian	Kartvelian	Kartvelian	nucl1302	Meshabash	41.408889	46.874444	Qax	
+98	Speaker	1	Mikik1	Tsakhur	East-Caucasian	Lezgic	tsak1249	Mikik	41.63753	47.16822	Rutul	
+99	Speaker	1	Mikik2	Tsakhur	East-Caucasian	Lezgic	tsak1249	Mikik	41.63753	47.16822	Rutul	
+100	Speaker	0	Qax1	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+101	Speaker	1	Qax2	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+102	Speaker	1	Qax3	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+103	Speaker	1	Qax4	Georgian	Kartvelian	Kartvelian	nucl1302	Qax	41.41944	46.91806	Qax	
+104	Speaker	1	Qax5	Georgian	Kartvelian	Kartvelian	nucl1302	Qax	41.41944	46.91806	Qax	
+105	Speaker	1	Qax6	Georgian	Kartvelian	Kartvelian	nucl1302	Qax	41.41944	46.91806	Qax	
+106	Speaker	1	Qax7	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+107	Speaker	0	Qax8	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+108	Speaker	1	Qax9	Azerbaijani	Altaic	Turkic	nort2697	Qax	41.41944	46.91806	Qax	
+109	Speaker	0	Qum1	Tsakhur	East-Caucasian	Lezgic	tsak1249	Qum	41.4550912	46.9013871	Qax	
+110	Speaker	0	Qum2	Tsakhur	East-Caucasian	Lezgic	tsak1249	Qum	41.4550912	46.9013871	Qax	
+111	Speaker	1	Rikvani1	Andi	East-Caucasian	Andic	andi1255	Rikvani	42.782304	46.319372	Botlikh	
+112	Speaker	1	Rutul1	Rutul	East-Caucasian	Lezgic	rutu1240	Rutul	41.5342	47.4269	Rutul	
+113	Speaker	1	Tad-Magitl1	Akhvakh	East-Caucasian	Andic	akhv1239	Tad-Magitl	42.550266	46.348953	Akhvakh	
+114	Speaker	1	Tad-Magitl2	Akhvakh	East-Caucasian	Andic	akhv1239	Tad-Magitl	42.550266	46.348953	Akhvakh	
+115	Speaker	1	Tatil1	Tabasaran	East-Caucasian	Lezgic	taba1259	Tatil’	41.99269	47.98826	Tabasaran	
+116	Speaker	1	Tatil2	Tabasaran	East-Caucasian	Lezgic	taba1259	Tatil’	41.99269	47.98826	Tabasaran	
+117	Speaker	1	Tatil3	Tabasaran	East-Caucasian	Lezgic	taba1259	Tatil’	41.99269	47.98826	Tabasaran	
+118	Speaker	1	Tatil4	Tabasaran	East-Caucasian	Lezgic	taba1259	Tatil’	41.99269	47.98826	Tabasaran	
+119	Speaker	1	Tatil5	Tabasaran	East-Caucasian	Lezgic	taba1259	Tatil’	41.99269	47.98826	Tabasaran	
+120	Speaker	1	Tpig1	Agul	East-Caucasian	Lezgic	aghu1253	Tpig	41.780423	47.589523	Agul	
+121	Speaker	1	Tsinit1	Lezgian	East-Caucasian	Lezgic	lezg1247	Tsinit	41.72324	48.00882	Khiv	
+122	Speaker	1	Tsinit2	Lezgian	East-Caucasian	Lezgic	lezg1247	Tsinit	41.72324	48.00882	Khiv	
+123	Speaker	0	Tsinit3	Lezgian	East-Caucasian	Lezgic	lezg1247	Tsinit	41.72324	48.00882	Khiv	
+124	Speaker	1	Tsinit4	Lezgian	East-Caucasian	Lezgic	lezg1247	Tsinit	41.72324	48.00882	Khiv	
+125	Speaker	1	Tsinit5	Lezgian	East-Caucasian	Lezgic	lezg1247	Tsinit	41.72324	48.00882	Khiv	
+126	Speaker	1	Tukita1	Karata	East-Caucasian	Andic	toki1238	Tukita	42.57056	46.37278	Akhvakh	
+127	Speaker	0	Yagdyg1	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+128	Speaker	1	Yagdyg2	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+129	Speaker	1	Yagdyg3	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+130	Speaker	1	Yagdyg4	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+131	Speaker	1	Yagdyg5	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+132	Speaker	1	Yagdyg6	Tabasaran	East-Caucasian	Lezgic	taba1259	Yagdyg	41.980115	47.970578	Tabasaran	
+133	Speaker	1	Yersi1	Azerbaijani	Altaic	Turkic	nort2697	Yersi	42.018844	48.012897	Tabasaran	
+134	Speaker	1	Yersi2	Azerbaijani	Altaic	Turkic	nort2697	Yersi	42.018844	48.012897	Tabasaran	
+135	Speaker	1	Yersi3	Azerbaijani	Altaic	Turkic	nort2697	Yersi	42.018844	48.012897	Tabasaran	
+136	Speaker	0	Yersi4	Azerbaijani	Altaic	Turkic	nort2697	Yersi	42.018844	48.012897	Tabasaran	
+137	Speaker	1	Zilo1	Andi	East-Caucasian	Andic	andi1255	Zilo	42.731394	46.319223	Botlikh	
+138	Speaker	1	Zilo2	Andi	East-Caucasian	Andic	andi1255	Zilo	42.731394	46.319223	Botlikh	
+139	Dictionary	0	D_Persian	Persian	Indo-European	Iranian	west2369	Dictionary	28.65928	55.15861	Dictionary	
+140	Dictionary	1	D_Archi	Archi	East-Caucasian	Lezgic	arch1244	Dictionary	42.0664	46.8678	Dictionary	archi
+141	Dictionary	1	D_Bezhta2	Bezhta	East-Caucasian	Tsezic	bezh1248	Dictionary	42.1206	46.03319	Dictionary	bezhta
+142	Speaker	1	Tlibisho1	Bagvalal	East-Caucasian	Andic	bagv1239	Tlibisho	42.333	46.1804	Akhvakh	
+143	Speaker	1	Tlibisho2	Bagvalal	East-Caucasian	Andic	bagv1240	Tlibisho	42.333	46.1804	Akhvakh	
+144	Speaker	1	Tlibisho3	Bagvalal	East-Caucasian	Andic	bagv1241	Tlibisho	42.333	46.1804	Akhvakh	
+145	Speaker	1	Tlibisho4	Bagvalal	East-Caucasian	Andic	bagv1242	Tlibisho	42.333	46.1804	Akhvakh	
+146	Dictionary	1	D_Bagvalal	Bagvalal	East-Caucasian	Andic	bagv1242	Dictionary	42.333	46.1804	Dictionary	bagvalal
+147	Speaker	1	Kusur1	Avar	East-Caucasian	Avar	avar1256	Kusur	41.4658	46.5641	Rutul	
+148	Expert	1	E_Georgian	Georgian	Kartvelian	Kartvelian	nucl1302	Expert	41.81574	44.31883	Expert	Manana Tandashvili; Nestan Magalashvili
+149	Expert	1	E_Arabic	Arabic	Afro-Asiatic	Semitic	egyp1253	Expert	31	31	Expert	Maria Bulakh
+150	Expert	1	E_Avar	Avar	East-Caucasian	Avar	avar1256	Expert	42.43056	46.66639	Expert	Shakhban Khapizov
+151	Expert	1	E_Chechen	Chechen	East-Caucasian	Nakh	chec1245	Expert	43.5	45.5	Expert	Zarina Molochieva
+152	Expert	1	E_Kumyk	Kumyk	Altaic	Turkic	kumy1244	Expert	43	47	Expert	Tagir Gadzhiakmedov; Anna Dybo
+153	Expert	1	E_Persian	Persian	Indo-European	Iranian	west2369	Expert	28.65928	55.15861	Expert	Elena Armand
+154	Speaker	1	Anchikh1	Karata	East-Caucasian	Andic	anch1238	Anchikh	42.610709	46.277436	Akhvakh	
+155	Speaker	1	Anchikh2	Karata	East-Caucasian	Andic	anch1238	Anchikh	42.610709	46.277436	Akhvakh	
+156	Speaker	1	Kwankhidatli1	Andi	East-Caucasian	Andic	andi1255	Kwankhidatli	42.656995	46.272891	Botlikh	
+157	Speaker	1	Tukita2	Karata	East-Caucasian	Andic	toki1238	Tukita	42.57056	46.37278	Akhvakh	
+158	Speaker	1	Tukita3	Karata	East-Caucasian	Andic	toki1238	Tukita	42.57056	46.37278	Akhvakh	
+159	Speaker	1	Tukita4	Karata	East-Caucasian	Andic	toki1238	Tukita	42.57056	46.37278	Akhvakh	
+160	Speaker	1	Tukita5	Karata	East-Caucasian	Andic	toki1238	Tukita	42.57056	46.37278	Akhvakh	
+161	Speaker	1	Bezhta2	Bezhta	East-Caucasian	Tsezic	bezh1248	Bezhta	42.1339	46.1247	Tsunta	
+162	Speaker	1	Kurdul1	Tsakhur	East-Caucasian	Lezgic	tsak1249	Kurdul	41.581482	47.178110	Rutul	
+163	Speaker	1	Kurdul2	Tsakhur	East-Caucasian	Lezgic	tsak1249	Kurdul	41.581482	47.178110	Rutul	
+164	Speaker	1	Kurdul3	Tsakhur	East-Caucasian	Lezgic	tsak1249	Kurdul	41.581482	47.178110	Rutul	
+165	Speaker	1	Fiy1	Lezgian	East-Caucasian	Lezgic	lezg1247	Fiy	41.285241	47.565016	Akhty	
+166	Speaker	1	Fiy2	Lezgian	East-Caucasian	Lezgic	lezg1247	Fiy	41.285241	47.565016	Akhty	
+167	Speaker	1	Gdym1	Lezgian	East-Caucasian	Lezgic	lezg1247	Gdym	41.310094	47.468052	Akhty	
+168	Speaker	1	Gdym2	Lezgian	East-Caucasian	Lezgic	lezg1247	Gdym	41.310094	47.468052	Akhty	
+169	Speaker	1	Khnov1	Rutul	East-Caucasian	Lezgic	rutu1240	Khnov	41.378933	47.442273	Akhty	
+170	Speaker	1	Khnov2	Rutul	East-Caucasian	Lezgic	rutu1240	Khnov	41.378933	47.442273	Akhty	
+171	Speaker	1	Khnov3	Rutul	East-Caucasian	Lezgic	rutu1240	Khnov	41.378933	47.442273	Akhty	
+172	Speaker	1	Kina4	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+173	Speaker	1	Kina5	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+174	Speaker	1	Kina3a	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+175	Speaker	1	Kina2a	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	
+176	Speaker	1	Kina1a	Rutul	East-Caucasian	Lezgic	rutu1240	Kina	41.6166	47.2647	Rutul	

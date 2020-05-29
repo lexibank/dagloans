@@ -1,6 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Ilya Chechuro | @ilchec | editor
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Ilya Chechuro | @ilchec | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Author
+

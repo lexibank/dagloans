@@ -5,6 +5,7 @@
     "dc:isVersionOf": null,
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "DagLoans Database",
     "dcat:accessURL": "https://github.com/lexibank/dagloans",
     "prov:wasDerivedFrom": [
@@ -12,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dagloans",
-            "dc:created": "c908d15"
+            "dc:created": "40fd969"
         },
         {
             "rdf:type": "prov:Entity",
@@ -23,14 +24,20 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/LinguList/concepticon-data",
-            "dc:created": "v2.1.0-86-g556e0e1"
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.3.0-107-g79157a1"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -45,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 25810,
+            "dc:extent": 30970,
             "tableSchema": {
                 "columns": [
                     {
@@ -109,7 +116,19 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Stem"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Lexeme_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -144,7 +163,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 146,
+            "dc:extent": 175,
             "tableSchema": {
                 "columns": [
                     {
@@ -220,6 +239,18 @@
                     {
                         "datatype": "string",
                         "name": "SourceType"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "District"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SfW"
                     }
                 ],
                 "primaryKey": [
@@ -230,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 162,
+            "dc:extent": 160,
             "tableSchema": {
                 "columns": [
                     {
@@ -252,6 +283,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
                     }
                 ],
                 "primaryKey": [
@@ -259,80 +294,6 @@
                 ]
             },
             "url": "parameters.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 25810,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Form_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
-                        "name": "Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
-                        "name": "Cognateset_ID"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "Doubt"
-                    },
-                    {
-                        "datatype": "string",
-                        "default": "expert",
-                        "name": "Cognate_Detection_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
-                        "separator": " ",
-                        "name": "Alignment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Source"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cognates.csv"
         }
     ]
 }
