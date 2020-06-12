@@ -13,13 +13,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dagloans",
-            "dc:created": "fc0c026"
+            "dc:created": "b96bbbb"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1-7-g35d84acf81"
         },
         {
             "rdf:type": "prov:Entity",

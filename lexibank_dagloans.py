@@ -46,7 +46,9 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept['ENGLISH'],
-                    Number=concept['NUMBER'])
+                    Number=concept['NUMBER'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
             concepts[concept['ENGLISH']] = idx
         sources, languages = {}, {}
         for language in self.languages:

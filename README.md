@@ -6,7 +6,7 @@ This dataset is licensed under a GPL-3.0 license
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 8%](https://img.shields.io/badge/Source-8%25-red.svg "Source: 8%")
 
 - **Varieties:** 175
@@ -28,7 +28,7 @@ This dataset is licensed under a GPL-3.0 license
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Ilya Chechuro | @ilchec | maintainer | Author
-Johann-Mattis List | @LinguList | maintainer | Author
+Johann-Mattis List | @LinguList | CLDF conversion | Other
 
 
 
